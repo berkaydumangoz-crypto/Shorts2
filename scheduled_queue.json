@@ -106,5 +106,102 @@
     "video_path": null,
     "published": false,
     "error": "Tüm script üretim denemeleri başarısız oldu."
+  },
+  {
+    "scheduled_date": "2026-03-26",
+    "topic": "Nuclear-Powered Cruise Missiles: Russia's Unlimited Range Weapon",
+    "title": "صاروخ روسيا اللانهائي: 5 حقائق صادمة",
+    "script_path": "batch_output/2026-03-26/script.json",
+    "video_path": "batch_output/2026-03-26/short.mp4",
+    "audio_path": "batch_output/2026-03-26/narration.mp3",
+    "thumbnail_path": "batch_output/2026-03-26/thumbnail.png",
+    "language": "ar",
+    "published": false,
+    "engagement_pack": {
+      "pinned_comment": "هل روسيا قادرة على ضرب أي نقطة؟ 🌍 Only 10% get this right...\nA) نعم، بسهولة\nB) لا، لديهم حدود\nC) غير مؤكد",
+      "community_poll": {
+        "text": "Should Russia's unlimited range missile be a major global concern? 🌍🤔",
+        "poll_options": [
+          "Yes, a huge threat",
+          "Potentially concerning",
+          "Overhyped, not real",
+          "Depends on intent"
+        ]
+      },
+      "debate_starter": "المدى اللانهائي يعني أن روسيا لا تحتاج للدفاع؟ 🤔",
+      "prediction_game": "🎯 PREDICTION GAME: What happens by end of 2026?\n\nDrop your prediction — I'll pin the best one! 📌\n\nMost creative prediction wins a shoutout! 🏆"
+    },
+    "score": 45
+  },
+  {
+    "scheduled_date": "2026-03-27",
+    "topic": "Israel's Arrow 3: The Missile That Can Intercept in Space",
+    "title": "القبة الحديدية 3: تحمي إسرائيل من الفضاء!",
+    "script_path": "batch_output/2026-03-27/script.json",
+    "video_path": "batch_output/2026-03-27/short.mp4",
+    "audio_path": "batch_output/2026-03-27/narration.mp3",
+    "thumbnail_path": "batch_output/2026-03-27/thumbnail.png",
+    "language": "ar",
+    "published": false,
+    "engagement_pack": {
+      "pinned_comment": "🔥 Bold prediction time: How does this end?\n\nA) Escalation 💥\nB) Diplomacy 🤝\nC) Surprise twist 🔄\n\nDrop your answer! 👇",
+      "community_poll": {
+        "text": "🔥 After watching today's analysis on القبة الحديدية 3: تحمي إسرائيل من الفضاء... What's YOUR prediction?",
+        "poll_options": [
+          "Full escalation 💥",
+          "Diplomatic solution 🤝",
+          "Status quo continues",
+          "Something nobody expects 🔮"
+        ]
+      },
+      "debate_starter": "",
+      "prediction_game": "🎯 PREDICTION GAME: What happens by end of 2026?\n\nDrop your prediction — I'll pin the best one! 📌\n\nMost creative prediction wins a shoutout! 🏆"
+    },
+    "score": 39
+  },
+  {
+    "scheduled_date": "2026-03-28",
+    "topic": "[NEWS] US Military Using More Missiles to Defend Israel Than Israel Itself: Here's What It Means for the World",
+    "title": "?",
+    "script_path": null,
+    "video_path": null,
+    "published": false,
+    "error": "Tüm script üretim denemeleri başarısız oldu."
+  },
+  {
+    "scheduled_date": "2026-03-29",
+    "topic": "What if the Gulf States Unite Against Iran?",
+    "title": "?",
+    "script_path": null,
+    "video_path": null,
+    "published": false,
+    "error": "Tüm script üretim denemeleri başarısız oldu."
+  },
+  {
+    "scheduled_date": "2026-03-30",
+    "topic": "Iran's Hypersonic Missile Program: Should the World Worry?",
+    "title": "?",
+    "script_path": null,
+    "video_path": null,
+    "published": false,
+    "error": "Tüm script üretim denemeleri başarısız oldu."
+  },
+  {
+    "scheduled_date": "2026-03-31",
+    "topic": "Israel's Secret Nuclear Arsenal: What We Know",
+    "title": "?",
+    "script_path": null,
+    "video_path": null,
+    "published": false,
+    "error": "Tüm script üretim denemeleri başarısız oldu."
+  },
+  {
+    "scheduled_date": "2026-04-01",
+    "topic": "Iran vs Israel: The Shadow War Nobody Talks About",
+    "title": "?",
+    "script_path": null,
+    "video_path": null,
+    "published": false,
+    "error": "Tüm script üretim denemeleri başarısız oldu."
   }
 ]
