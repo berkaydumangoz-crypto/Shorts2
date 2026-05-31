@@ -203,5 +203,119 @@
     "video_path": null,
     "published": false,
     "error": "Tüm script üretim denemeleri başarısız oldu."
+  },
+  {
+    "scheduled_date": "2026-04-02",
+    "topic": "What if the Gulf States Unite Against Iran?",
+    "title": "7 دول خليجية: 5000 طائرة مسيرة ضد إيران!",
+    "script_path": "batch_output/2026-04-02/script.json",
+    "video_path": "batch_output/2026-04-02/short.mp4",
+    "audio_path": "batch_output/2026-04-02/narration.mp3",
+    "thumbnail_path": "batch_output/2026-04-02/thumbnail.png",
+    "language": "ar",
+    "published": false,
+    "engagement_pack": {
+      "pinned_comment": "هل هذه القوة الخليجية الخارقة حقيقية؟ 🤔\nA) نعم، الغرب يخفيها 🤫\nB) لا، مجرد دعاية 🗣️\nC) لا أعرف 🤷\nفقط 5% يعرفون الحقيقة! 👇",
+      "community_poll": {
+        "text": "Should Gulf states invest in drone tech or diplomacy? ✈️ 🕊️",
+        "poll_options": [
+          "Drone Dominance",
+          "Diplomacy First",
+          "Balanced Approach",
+          "Other: Tell Us!"
+        ]
+      },
+      "debate_starter": "The West loves to ignore potential regional power shifts. Is this the beginning of a new Gulf-led security order? 🤔",
+      "prediction_game": "🔮 CRYSTAL BALL TIME: 7 دول خليجية: 5000 طائرة مسيرة ضد إيران!\n\nComment your wildest theory about what happens next.\nWrong answers only 😂👇"
+    },
+    "score": 41
+  },
+  {
+    "scheduled_date": "2026-04-03",
+    "topic": "[NEWS] Trump tightens terms on Iran war deal, US media say: Here's What It Means for the World",
+    "title": "أبريل 2024: ترامب يفرض شروط حرب على إيران",
+    "script_path": "batch_output/2026-04-03/script.json",
+    "video_path": "batch_output/2026-04-03/short.mp4",
+    "audio_path": "batch_output/2026-04-03/narration.mp3",
+    "thumbnail_path": "batch_output/2026-04-03/thumbnail.png",
+    "language": "ar",
+    "published": false,
+    "engagement_pack": {
+      "pinned_comment": "هل تظن أن ترامب جاد؟ 🤔\nA) نعم، يريد الحرب! 💥\nB) لا، مجرد تهديدات. 🤥\nC) لا أعرف. 🤷‍♀️\nOnly 10% get this right... 👇",
+      "community_poll": {
+        "text": "🔥 After watching today's analysis on أبريل 2024: ترامب يفرض شروط حرب على إيرا... What's YOUR prediction?",
+        "poll_options": [
+          "Full escalation 💥",
+          "Diplomatic solution 🤝",
+          "Status quo continues",
+          "Something nobody expects 🔮"
+        ]
+      },
+      "debate_starter": "",
+      "prediction_game": "⚡ 30-SECOND CHALLENGE: After watching this video...\n\nWhat's the ONE thing that could change everything?\nBest answer gets pinned! 📌👇"
+    },
+    "score": 34
+  },
+  {
+    "scheduled_date": "2026-04-04",
+    "topic": "Nuclear-Powered Cruise Missiles: Russia's Unlimited Range Weapon",
+    "title": "مرعب: روسيا تملك سلاحاً يغير قواعد الحرب",
+    "script_path": "batch_output/2026-04-04/script.json",
+    "video_path": "batch_output/2026-04-04/short.mp4",
+    "audio_path": "batch_output/2026-04-04/narration.mp3",
+    "thumbnail_path": "batch_output/2026-04-04/thumbnail.png",
+    "language": "ar",
+    "published": false,
+    "engagement_pack": {
+      "pinned_comment": "هل روسيا تملك سلاحاً يغير قواعد الحرب فعلاً؟ 🤔\n\nA) نعم، إنه فعلاً يغير كل شيء 🚀\nB) لا، مجرد دعاية 💥\nC) لا أعرف، أحتاج معرفة المزيد 🧐\n\nOnly 10% get this right... 👇",
+      "community_poll": {
+        "text": "🔥 After watching today's analysis on مرعب: روسيا تملك سلاحاً يغير قواعد الحرب... What's YOUR prediction?",
+        "poll_options": [
+          "Full escalation 💥",
+          "Diplomatic solution 🤝",
+          "Status quo continues",
+          "Something nobody expects 🔮"
+        ]
+      },
+      "debate_starter": "",
+      "prediction_game": "🧠 INTEL TEST: Based on this briefing...\n\nWhat would YOU do as commander-in-chief?\nMost strategic answer wins! 🎖️👇"
+    },
+    "score": 35
+  },
+  {
+    "scheduled_date": "2026-04-05",
+    "topic": "What if Iran Closes the Strait of Hormuz Tomorrow?",
+    "title": "?",
+    "script_path": null,
+    "video_path": null,
+    "published": false,
+    "error": "Tüm script üretim denemeleri başarısız oldu."
+  },
+  {
+    "scheduled_date": "2026-04-06",
+    "topic": "Israel's Arrow 3: The Missile That Can Intercept in Space",
+    "title": "?",
+    "script_path": null,
+    "video_path": null,
+    "published": false,
+    "error": "Tüm script üretim denemeleri başarısız oldu."
+  },
+  {
+    "scheduled_date": "2026-04-07",
+    "topic": "Iran's Hypersonic Missile Program: Should the World Worry?",
+    "title": "?",
+    "script_path": null,
+    "video_path": null,
+    "published": false,
+    "error": "Tüm script üretim denemeleri başarısız oldu."
+  },
+  {
+    "scheduled_date": "2026-04-08",
+    "topic": "What if Iran and Israel Launch Full Nuclear War?",
+    "title": "?",
+    "script_path": null,
+    "video_path": null,
+    "published": false,
+    "error": "Tüm script üretim denemeleri başarısız oldu."
   }
 ]
