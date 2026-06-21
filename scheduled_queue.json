@@ -414,5 +414,136 @@
     "video_path": null,
     "published": false,
     "error": "Tüm script üretim denemeleri başarısız oldu."
+  },
+  {
+    "scheduled_date": "2026-04-16",
+    "topic": "[NEWS] Israeli strikes kill six people in Gaza including Al Jazeera cameraman: The Analysis Nobody Is Giving You",
+    "title": "صادم: إسرائيل تقتل 6 في غزة! الحقيقة المخفية.",
+    "script_path": "batch_output/2026-04-16/script.json",
+    "video_path": "batch_output/2026-04-16/short.mp4",
+    "audio_path": "batch_output/2026-04-16/narration.mp3",
+    "thumbnail_path": "batch_output/2026-04-16/thumbnail.png",
+    "language": "ar",
+    "published": false,
+    "engagement_pack": {
+      "pinned_comment": "هل إسرائيل تنجح في إسكات غزة؟ 🤫 Only 10% know the real answer!\nA) نعم، تمامًا.\nB) لا، المقاومة مستمرة.\nC) لا أعرف.\n#غزة #فلسطين 🇵🇸🕊️",
+      "community_poll": {
+        "text": "The news from Gaza is heartbreaking. What do YOU think is the most effective way to achieve lasting peace? 🕊️💔",
+        "poll_options": [
+          "Diplomacy",
+          "Sanctions",
+          "Aid",
+          "Protests"
+        ]
+      },
+      "debate_starter": "The \"hidden truth\" is that both sides have committed atrocities. When will we acknowledge that? 🤔",
+      "prediction_game": "⚡ 30-SECOND CHALLENGE: After watching this video...\n\nWhat's the ONE thing that could change everything?\nBest answer gets pinned! 📌👇"
+    },
+    "score": 31
+  },
+  {
+    "scheduled_date": "2026-04-17",
+    "topic": "Iran's Hypersonic Missile Program: Should the World Worry?",
+    "title": "صادم: صاروخ إيران الخارق يتجاوز الدفاعات!",
+    "script_path": "batch_output/2026-04-17/script.json",
+    "video_path": "batch_output/2026-04-17/short.mp4",
+    "audio_path": "batch_output/2026-04-17/narration.mp3",
+    "thumbnail_path": "batch_output/2026-04-17/thumbnail.png",
+    "language": "ar",
+    "published": false,
+    "engagement_pack": {
+      "pinned_comment": "⚡ Hot take: What happens next?\n\n🔴 Full-scale war\n🟡 Cold war standoff\n🟢 Peace deal\n\nVote below! Most get this WRONG 👇",
+      "community_poll": {
+        "text": "🔥 After watching today's analysis on صادم: صاروخ إيران الخارق يتجاوز الدفاعات... What's YOUR prediction?",
+        "poll_options": [
+          "Full escalation 💥",
+          "Diplomatic solution 🤝",
+          "Status quo continues",
+          "Something nobody expects 🔮"
+        ]
+      },
+      "debate_starter": "",
+      "prediction_game": "🎯 PREDICTION GAME: What happens by end of 2026?\n\nDrop your prediction — I'll pin the best one! 📌\n\nMost creative prediction wins a shoutout! 🏆"
+    },
+    "score": 43
+  },
+  {
+    "scheduled_date": "2026-04-18",
+    "topic": "Israel's Secret Nuclear Arsenal: What We Know",
+    "title": "إسرائيل تفجر القنبلة النووية: صمت عالمي!",
+    "script_path": "batch_output/2026-04-18/script.json",
+    "video_path": "batch_output/2026-04-18/short.mp4",
+    "audio_path": "batch_output/2026-04-18/narration.mp3",
+    "thumbnail_path": "batch_output/2026-04-18/thumbnail.png",
+    "language": "ar",
+    "published": false,
+    "engagement_pack": {
+      "pinned_comment": "⚡ Hot take: What happens next?\n\n🔴 Full-scale war\n🟡 Cold war standoff\n🟢 Peace deal\n\nVote below! Most get this WRONG 👇",
+      "community_poll": {
+        "text": "🔥 After watching today's analysis on إسرائيل تفجر القنبلة النووية: صمت عالمي!... What's YOUR prediction?",
+        "poll_options": [
+          "Full escalation 💥",
+          "Diplomatic solution 🤝",
+          "Status quo continues",
+          "Something nobody expects 🔮"
+        ]
+      },
+      "debate_starter": "",
+      "prediction_game": "⚡ 30-SECOND CHALLENGE: After watching this video...\n\nWhat's the ONE thing that could change everything?\nBest answer gets pinned! 📌👇"
+    },
+    "score": 36
+  },
+  {
+    "scheduled_date": "2026-04-19",
+    "topic": "[NEWS] Iran says it is closing Strait of Hormuz, testing fragile agreement wi: Here's What It Means for the World",
+    "title": "خطير: إيران تهدد بشدة والناتو يتحرك!",
+    "script_path": "batch_output/2026-04-19/script.json",
+    "video_path": "batch_output/2026-04-19/short.mp4",
+    "audio_path": "batch_output/2026-04-19/narration.mp3",
+    "thumbnail_path": "batch_output/2026-04-19/thumbnail.png",
+    "language": "ar",
+    "published": false,
+    "engagement_pack": {
+      "pinned_comment": "🔥 Bold prediction time: How does this end?\n\nA) Escalation 💥\nB) Diplomacy 🤝\nC) Surprise twist 🔄\n\nDrop your answer! 👇",
+      "community_poll": {
+        "text": "🔥 After watching today's analysis on خطير: إيران تهدد بشدة والناتو يتحرك!... What's YOUR prediction?",
+        "poll_options": [
+          "Full escalation 💥",
+          "Diplomatic solution 🤝",
+          "Status quo continues",
+          "Something nobody expects 🔮"
+        ]
+      },
+      "debate_starter": "",
+      "prediction_game": "🎯 PREDICTION GAME: What happens by end of 2026?\n\nDrop your prediction — I'll pin the best one! 📌\n\nMost creative prediction wins a shoutout! 🏆"
+    },
+    "score": 35
+  },
+  {
+    "scheduled_date": "2026-04-20",
+    "topic": "[NEWS] Why Trump says Iran missiles 'aren't the problem' after White House made t Changes Everything",
+    "title": "?",
+    "script_path": null,
+    "video_path": null,
+    "published": false,
+    "error": "Tüm script üretim denemeleri başarısız oldu."
+  },
+  {
+    "scheduled_date": "2026-04-21",
+    "topic": "What if Iran Closes the Strait of Hormuz Tomorrow?",
+    "title": "?",
+    "script_path": null,
+    "video_path": null,
+    "published": false,
+    "error": "Tüm script üretim denemeleri başarısız oldu."
+  },
+  {
+    "scheduled_date": "2026-04-22",
+    "topic": "What if Iran Gets Nuclear Weapons?",
+    "title": "?",
+    "script_path": null,
+    "video_path": null,
+    "published": false,
+    "error": "Tüm script üretim denemeleri başarısız oldu."
   }
 ]
