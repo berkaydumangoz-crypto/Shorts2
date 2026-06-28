@@ -545,5 +545,119 @@
     "video_path": null,
     "published": false,
     "error": "Tüm script üretim denemeleri başarısız oldu."
+  },
+  {
+    "scheduled_date": "2026-04-23",
+    "topic": "What if Israel and Iran Go to Full-Scale War?",
+    "title": "كارثة: حرب إسرائيل وإيران الشاملة تعني نهاية العالم!",
+    "script_path": "batch_output/2026-04-23/script.json",
+    "video_path": "batch_output/2026-04-23/short.mp4",
+    "audio_path": "batch_output/2026-04-23/narration.mp3",
+    "thumbnail_path": "batch_output/2026-04-23/thumbnail.png",
+    "language": "ar",
+    "published": false,
+    "engagement_pack": {
+      "pinned_comment": "الحرب الشاملة: هل إسرائيل ستنجح في شلّ إيران 50 عاماً؟ 🤔\nA) نعم، التفوق الإسرائيلي واضح. 🇮🇱\nB) لا، إيران قادرة على الرد بقوة. 🇮🇷\nC) لا أحد يعلم. 🤷‍♂️\nفقط 5% يفهمون العواقب الحقيقية! 👇",
+      "community_poll": {
+        "text": "Will the Israel-Iran conflict escalate into a full-blown world war? 🌍🔥",
+        "poll_options": [
+          "Yes, it's inevitable",
+          "No, contained conflict",
+          "Maybe, depends on X",
+          "Uncertain, too complex"
+        ]
+      },
+      "debate_starter": "إيران وإسرائيل هما وجهان لعملة واحدة، كلاهما يحارب لتحقيق أهدافهما الخاصة. هل حقاً يريدان الحرب أم مجرد إظهار القوة؟ 🤔",
+      "prediction_game": "🧠 INTEL TEST: Based on this briefing...\n\nWhat would YOU do as commander-in-chief?\nMost strategic answer wins! 🎖️👇"
+    },
+    "score": 39
+  },
+  {
+    "scheduled_date": "2026-04-24",
+    "topic": "[NEWS] America's joint strikes with Israel: The REAL reason behind the escalating coordinated assault on Iran",
+    "title": "72 ساعة تفصل إيران عن السلاح النووي؟ ضربة أمريكا",
+    "script_path": "batch_output/2026-04-24/script.json",
+    "video_path": "batch_output/2026-04-24/short.mp4",
+    "audio_path": "batch_output/2026-04-24/narration.mp3",
+    "thumbnail_path": "batch_output/2026-04-24/thumbnail.png",
+    "language": "ar",
+    "published": false,
+    "engagement_pack": {
+      "pinned_comment": "⚡ Hot take: What happens next?\n\n🔴 Full-scale war\n🟡 Cold war standoff\n🟢 Peace deal\n\nVote below! Most get this WRONG 👇",
+      "community_poll": {
+        "text": "🔥 After watching today's analysis on 72 ساعة تفصل إيران عن السلاح النووي؟ ضرب... What's YOUR prediction?",
+        "poll_options": [
+          "Full escalation 💥",
+          "Diplomatic solution 🤝",
+          "Status quo continues",
+          "Something nobody expects 🔮"
+        ]
+      },
+      "debate_starter": "الغرب يخاف من قوة إيران النووية، لكن هل يخشون حقًا القنبلة أم فقط فقدان السيطرة؟ 🤔",
+      "prediction_game": "🎯 PREDICTION GAME: What happens by end of 2026?\n\nDrop your prediction — I'll pin the best one! 📌\n\nMost creative prediction wins a shoutout! 🏆"
+    },
+    "score": 35
+  },
+  {
+    "scheduled_date": "2026-04-25",
+    "topic": "[NEWS] Middle East on the brink? What new US-Iran missile and drone exchanges mean for global oil prices",
+    "title": "?",
+    "script_path": null,
+    "video_path": null,
+    "published": false,
+    "error": "Tüm script üretim denemeleri başarısız oldu."
+  },
+  {
+    "scheduled_date": "2026-04-26",
+    "topic": "[NEWS] Is World War 3 starting? The terrifying implications of Iran's new drone swarm attacks and US retaliation",
+    "title": "خطير: أسراب مسيرات إيران تفتح جبهة جديدة!",
+    "script_path": "batch_output/2026-04-26/script.json",
+    "video_path": "batch_output/2026-04-26/short.mp4",
+    "audio_path": "batch_output/2026-04-26/narration.mp3",
+    "thumbnail_path": "batch_output/2026-04-26/thumbnail.png",
+    "language": "ar",
+    "published": false,
+    "engagement_pack": {
+      "pinned_comment": "⚡ Hot take: What happens next?\n\n🔴 Full-scale war\n🟡 Cold war standoff\n🟢 Peace deal\n\nVote below! Most get this WRONG 👇",
+      "community_poll": {
+        "text": "🔥 After watching today's analysis on خطير: أسراب مسيرات إيران تفتح جبهة جديدة... What's YOUR prediction?",
+        "poll_options": [
+          "Full escalation 💥",
+          "Diplomatic solution 🤝",
+          "Status quo continues",
+          "Something nobody expects 🔮"
+        ]
+      },
+      "debate_starter": "",
+      "prediction_game": "⚡ 30-SECOND CHALLENGE: After watching this video...\n\nWhat's the ONE thing that could change everything?\nBest answer gets pinned! 📌👇"
+    },
+    "score": 41
+  },
+  {
+    "scheduled_date": "2026-04-27",
+    "topic": "[NEWS] The Pentagon just joined Israel's air war against Iran: Here's why it changes everything in the region",
+    "title": "?",
+    "script_path": null,
+    "video_path": null,
+    "published": false,
+    "error": "Tüm script üretim denemeleri başarısız oldu."
+  },
+  {
+    "scheduled_date": "2026-04-28",
+    "topic": "[NEWS] Why Iran's new missile waves should terrify the US Navy's 5th Fleet in the Middle East",
+    "title": "?",
+    "script_path": null,
+    "video_path": null,
+    "published": false,
+    "error": "Tüm script üretim denemeleri başarısız oldu."
+  },
+  {
+    "scheduled_date": "2026-04-29",
+    "topic": "[NEWS] Iran attacks Kuwait and Bahrain in response to US strikes: Here's What It Means for the World",
+    "title": "?",
+    "script_path": null,
+    "video_path": null,
+    "published": false,
+    "error": "Tüm script üretim denemeleri başarısız oldu."
   }
 ]
