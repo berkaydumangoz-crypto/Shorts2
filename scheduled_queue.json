@@ -659,5 +659,102 @@
     "video_path": null,
     "published": false,
     "error": "Tüm script üretim denemeleri başarısız oldu."
+  },
+  {
+    "scheduled_date": "2026-04-30",
+    "topic": "Iran's Hypersonic Missile Program: Should the World Worry?",
+    "title": "?",
+    "script_path": null,
+    "video_path": null,
+    "published": false,
+    "error": "Tüm script üretim denemeleri başarısız oldu."
+  },
+  {
+    "scheduled_date": "2026-05-01",
+    "topic": "What if Israel and Iran Go to Full-Scale War?",
+    "title": "خطير: حرب إسرائيل وإيران الشاملة قادمة؟",
+    "script_path": "batch_output/2026-05-01/script.json",
+    "video_path": "batch_output/2026-05-01/short.mp4",
+    "audio_path": "batch_output/2026-05-01/narration.mp3",
+    "thumbnail_path": "batch_output/2026-05-01/thumbnail.png",
+    "language": "ar",
+    "published": false,
+    "engagement_pack": {
+      "pinned_comment": "🔥 Bold prediction time: How does this end?\n\nA) Escalation 💥\nB) Diplomacy 🤝\nC) Surprise twist 🔄\n\nDrop your answer! 👇",
+      "community_poll": {
+        "text": "Is a full-scale war between Israel and Iran inevitable, or are we witnessing a carefully controlled escalation? 🤔",
+        "poll_options": [
+          "Inevitable",
+          "Controlled Escalation",
+          "Diplomacy Prevails",
+          "Regional Proxy War"
+        ]
+      },
+      "debate_starter": "إيران تتجنب الحرب المباشرة، الهدف هو إضعاف إسرائيل تدريجياً. هل الغرب يرى ذلك؟ 🤔",
+      "prediction_game": "🧠 INTEL TEST: Based on this briefing...\n\nWhat would YOU do as commander-in-chief?\nMost strategic answer wins! 🎖️👇"
+    },
+    "score": 36
+  },
+  {
+    "scheduled_date": "2026-05-02",
+    "topic": "Israel's Secret Nuclear Arsenal: What We Know",
+    "title": "?",
+    "script_path": null,
+    "video_path": null,
+    "published": false,
+    "error": "Tüm script üretim denemeleri başarısız oldu."
+  },
+  {
+    "scheduled_date": "2026-05-03",
+    "topic": "What if AI-Controlled Drones Replace Human Soldiers?",
+    "title": "مرعب: الروبوتات تحل محل الجنود — هذا يعني نهاية البشر!",
+    "script_path": "batch_output/2026-05-03/script.json",
+    "video_path": "batch_output/2026-05-03/short.mp4",
+    "audio_path": "batch_output/2026-05-03/narration.mp3",
+    "thumbnail_path": "batch_output/2026-05-03/thumbnail.png",
+    "language": "ar",
+    "published": false,
+    "engagement_pack": {
+      "pinned_comment": "⚡ Hot take: What happens next?\n\n🔴 Full-scale war\n🟡 Cold war standoff\n🟢 Peace deal\n\nVote below! Most get this WRONG 👇",
+      "community_poll": {
+        "text": "🔥 After watching today's analysis on مرعب: الروبوتات تحل محل الجنود — هذا يعن... What's YOUR prediction?",
+        "poll_options": [
+          "Full escalation 💥",
+          "Diplomatic solution 🤝",
+          "Status quo continues",
+          "Something nobody expects 🔮"
+        ]
+      },
+      "debate_starter": "",
+      "prediction_game": "⚡ 30-SECOND CHALLENGE: After watching this video...\n\nWhat's the ONE thing that could change everything?\nBest answer gets pinned! 📌👇"
+    },
+    "score": 36
+  },
+  {
+    "scheduled_date": "2026-05-04",
+    "topic": "What if the Ukraine War Escalates to World War 3?",
+    "title": "?",
+    "script_path": null,
+    "video_path": null,
+    "published": false,
+    "error": "Tüm script üretim denemeleri başarısız oldu."
+  },
+  {
+    "scheduled_date": "2026-05-05",
+    "topic": "What if China Invades Taiwan Tomorrow?",
+    "title": "?",
+    "script_path": null,
+    "video_path": null,
+    "published": false,
+    "error": "Tüm script üretim denemeleri başarısız oldu."
+  },
+  {
+    "scheduled_date": "2026-05-06",
+    "topic": "What if Russia Uses a Tactical Nuclear Weapon?",
+    "title": "?",
+    "script_path": null,
+    "video_path": null,
+    "published": false,
+    "error": "Tüm script üretim denemeleri başarısız oldu."
   }
 ]
