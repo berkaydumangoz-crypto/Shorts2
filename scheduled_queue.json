@@ -756,5 +756,102 @@
     "video_path": null,
     "published": false,
     "error": "Tüm script üretim denemeleri başarısız oldu."
+  },
+  {
+    "scheduled_date": "2026-05-07",
+    "topic": "Iran's Hypersonic Missile Program: Should the World Worry?",
+    "title": "صاروخ إيران الخارق: 15 ماخ يتجاوز الدفاعات!",
+    "script_path": "batch_output/2026-05-07/script.json",
+    "video_path": "batch_output/2026-05-07/short.mp4",
+    "audio_path": "batch_output/2026-05-07/narration.mp3",
+    "thumbnail_path": "batch_output/2026-05-07/thumbnail.png",
+    "language": "ar",
+    "published": false,
+    "engagement_pack": {
+      "pinned_comment": "هل صاروخ \"فتاح\" 15 ماخ مجرد استعراض أم تهديد حقيقي؟ 🤔\nA) استعراض\nB) تهديد حقيقي\nOnly 10% get this right! 👇",
+      "community_poll": {
+        "text": "Is Iran's new hypersonic missile a game-changer for regional power dynamics? 🤔✈️",
+        "poll_options": [
+          "Yes, huge shift",
+          "Slightly changes",
+          "No impact",
+          "Just hype"
+        ]
+      },
+      "debate_starter": "15 ماخ is impressive, but is it truly a game-changer or just another escalation? 🤔",
+      "prediction_game": "🔮 CRYSTAL BALL TIME: صاروخ إيران الخارق: 15 ماخ يتجاوز الدفاع\n\nComment your wildest theory about what happens next.\nWrong answers only 😂👇"
+    },
+    "score": 39
+  },
+  {
+    "scheduled_date": "2026-05-08",
+    "topic": "[NEWS] US CENTCOM completes third round of strikes on Iran: Here's What It Means for the World",
+    "title": "أمريكا تضرب إيران للمرة الثالثة في 72 ساعة",
+    "script_path": "batch_output/2026-05-08/script.json",
+    "video_path": "batch_output/2026-05-08/short.mp4",
+    "audio_path": "batch_output/2026-05-08/narration.mp3",
+    "thumbnail_path": "batch_output/2026-05-08/thumbnail.png",
+    "language": "ar",
+    "published": false,
+    "engagement_pack": {
+      "pinned_comment": "هل هذه الضربات ستُغير مجرى الصراع؟ 🤔\nA) نعم، حتمًا 💥\nB) قد تُصعّد الوضع 🔥\nC) مجرد استعراض قوة 🤷‍♂️\nOnly 10% get this right... 👇",
+      "community_poll": {
+        "text": "🔥 After watching today's analysis on أمريكا تضرب إيران للمرة الثالثة في 72 سا... What's YOUR prediction?",
+        "poll_options": [
+          "Full escalation 💥",
+          "Diplomatic solution 🤝",
+          "Status quo continues",
+          "Something nobody expects 🔮"
+        ]
+      },
+      "debate_starter": "This escalation is a trap, not a strategy. Are we sure this isn't just pushing Iran closer to their allies? 🤔",
+      "prediction_game": "🔮 CRYSTAL BALL TIME: أمريكا تضرب إيران للمرة الثالثة في 72 سا\n\nComment your wildest theory about what happens next.\nWrong answers only 😂👇"
+    },
+    "score": 36
+  },
+  {
+    "scheduled_date": "2026-05-09",
+    "topic": "Israel's Secret Nuclear Arsenal: What We Know",
+    "title": "?",
+    "script_path": null,
+    "video_path": null,
+    "published": false,
+    "error": "Tüm script üretim denemeleri başarısız oldu."
+  },
+  {
+    "scheduled_date": "2026-05-10",
+    "topic": "What if North Korea Launches a Real Attack?",
+    "title": "?",
+    "script_path": null,
+    "video_path": null,
+    "published": false,
+    "error": "Tüm script üretim denemeleri başarısız oldu."
+  },
+  {
+    "scheduled_date": "2026-05-11",
+    "topic": "What if Russia Uses a Tactical Nuclear Weapon?",
+    "title": "?",
+    "script_path": null,
+    "video_path": null,
+    "published": false,
+    "error": "Tüm script üretim denemeleri başarısız oldu."
+  },
+  {
+    "scheduled_date": "2026-05-12",
+    "topic": "What if China Invades Taiwan Tomorrow?",
+    "title": "?",
+    "script_path": null,
+    "video_path": null,
+    "published": false,
+    "error": "Tüm script üretim denemeleri başarısız oldu."
+  },
+  {
+    "scheduled_date": "2026-05-13",
+    "topic": "What if the Ukraine War Escalates to World War 3?",
+    "title": "?",
+    "script_path": null,
+    "video_path": null,
+    "published": false,
+    "error": "Tüm script üretim denemeleri başarısız oldu."
   }
 ]
