@@ -853,5 +853,119 @@
     "video_path": null,
     "published": false,
     "error": "Tüm script üretim denemeleri başarısız oldu."
+  },
+  {
+    "scheduled_date": "2026-05-14",
+    "topic": "Iran's Hypersonic Missile Program: Should the World Worry?",
+    "title": "صاروخ إيران الجديد: 15x سرعة الصوت!",
+    "script_path": "batch_output/2026-05-14/script.json",
+    "video_path": "batch_output/2026-05-14/short.mp4",
+    "audio_path": "batch_output/2026-05-14/narration.mp3",
+    "thumbnail_path": "batch_output/2026-05-14/thumbnail.png",
+    "language": "ar",
+    "published": false,
+    "engagement_pack": {
+      "pinned_comment": "صاروخ إيران الجديد 15x سرعة الصوت! 🚀 هل هذا يعني نهاية القبة الحديدية؟ 🤔\nA) نعم، بلا شك! 💥\nB) لا، الدفاع سيتطور! 🛡️\nOnly 10% get this right... 👇",
+      "community_poll": {
+        "text": "Is Iran's new hypersonic missile a game-changer for the Middle East or just hype? 🚀",
+        "poll_options": [
+          "Major threat",
+          "Mostly propaganda",
+          "Calculated deterrence",
+          "Too early to tell"
+        ]
+      },
+      "debate_starter": "إيران تبالغ في قدراتها الصاروخية، وهذا مجرد دعاية. هل تعتقد أنهم حقاً قادرون على اختراق دفاعات إسرائيل؟ 🚀",
+      "prediction_game": "🔮 CRYSTAL BALL TIME: صاروخ إيران الجديد: 15x سرعة الصوت!\n\nComment your wildest theory about what happens next.\nWrong answers only 😂👇"
+    },
+    "score": 44
+  },
+  {
+    "scheduled_date": "2026-05-15",
+    "topic": "Israel's Secret Nuclear Arsenal: What We Know",
+    "title": "إسرائيل تملك 300 رأس نووي | تقرير سري",
+    "script_path": "batch_output/2026-05-15/script.json",
+    "video_path": "batch_output/2026-05-15/short.mp4",
+    "audio_path": "batch_output/2026-05-15/narration.mp3",
+    "thumbnail_path": "batch_output/2026-05-15/thumbnail.png",
+    "language": "ar",
+    "published": false,
+    "engagement_pack": {
+      "pinned_comment": "🔥 Bold prediction time: How does this end?\n\nA) Escalation 💥\nB) Diplomacy 🤝\nC) Surprise twist 🔄\n\nDrop your answer! 👇",
+      "community_poll": {
+        "text": "🔥 After watching today's analysis on إسرائيل تملك 300 رأس نووي | تقرير سري... What's YOUR prediction?",
+        "poll_options": [
+          "Full escalation 💥",
+          "Diplomatic solution 🤝",
+          "Status quo continues",
+          "Something nobody expects 🔮"
+        ]
+      },
+      "debate_starter": "",
+      "prediction_game": "🧠 INTEL TEST: Based on this briefing...\n\nWhat would YOU do as commander-in-chief?\nMost strategic answer wins! 🎖️👇"
+    },
+    "score": 39
+  },
+  {
+    "scheduled_date": "2026-05-16",
+    "topic": "[NEWS] US and Iran exchange strikes after two US soldiers killed in Jordan: Here's What It Means for the World",
+    "title": "خطر: أمريكا وإيران تتجاوزان الخط الأحمر!",
+    "script_path": "batch_output/2026-05-16/script.json",
+    "video_path": "batch_output/2026-05-16/short.mp4",
+    "audio_path": "batch_output/2026-05-16/narration.mp3",
+    "thumbnail_path": "batch_output/2026-05-16/thumbnail.png",
+    "language": "ar",
+    "published": false,
+    "engagement_pack": {
+      "pinned_comment": "🎯 Prediction challenge: Only 5% get this right!\n\nWhat's the REAL endgame here? Comment your theory 👇",
+      "community_poll": {
+        "text": "🔥 After watching today's analysis on خطر: أمريكا وإيران تتجاوزان الخط الأحمر!... What's YOUR prediction?",
+        "poll_options": [
+          "Full escalation 💥",
+          "Diplomatic solution 🤝",
+          "Status quo continues",
+          "Something nobody expects 🔮"
+        ]
+      },
+      "debate_starter": "",
+      "prediction_game": "⚡ 30-SECOND CHALLENGE: After watching this video...\n\nWhat's the ONE thing that could change everything?\nBest answer gets pinned! 📌👇"
+    },
+    "score": 37
+  },
+  {
+    "scheduled_date": "2026-05-17",
+    "topic": "What if Space Becomes the Next Battlefield?",
+    "title": "?",
+    "script_path": null,
+    "video_path": null,
+    "published": false,
+    "error": "Tüm script üretim denemeleri başarısız oldu."
+  },
+  {
+    "scheduled_date": "2026-05-18",
+    "topic": "What if the Ukraine War Escalates to World War 3?",
+    "title": "?",
+    "script_path": null,
+    "video_path": null,
+    "published": false,
+    "error": "Tüm script üretim denemeleri başarısız oldu."
+  },
+  {
+    "scheduled_date": "2026-05-19",
+    "topic": "[NEWS] From settlements to blocked recovery: Here's What It Means for the World",
+    "title": "?",
+    "script_path": null,
+    "video_path": null,
+    "published": false,
+    "error": "Tüm script üretim denemeleri başarısız oldu."
+  },
+  {
+    "scheduled_date": "2026-05-20",
+    "topic": "What if NATO and Russia Go to Direct War?",
+    "title": "?",
+    "script_path": null,
+    "video_path": null,
+    "published": false,
+    "error": "Tüm script üretim denemeleri başarısız oldu."
   }
 ]
