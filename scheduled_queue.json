@@ -967,5 +967,102 @@
     "video_path": null,
     "published": false,
     "error": "Tüm script üretim denemeleri başarısız oldu."
+  },
+  {
+    "scheduled_date": "2026-05-21",
+    "topic": "Israel's Secret Nuclear Arsenal: What We Know",
+    "title": "مرعب: إسرائيل تخفي 400 رأس نووي! الحقيقة الصادمة",
+    "script_path": "batch_output/2026-05-21/script.json",
+    "video_path": "batch_output/2026-05-21/short.mp4",
+    "audio_path": "batch_output/2026-05-21/narration.mp3",
+    "thumbnail_path": "batch_output/2026-05-21/thumbnail.png",
+    "language": "ar",
+    "published": false,
+    "engagement_pack": {
+      "pinned_comment": "هل امتلاك إسرائيل لـ 400+ رأس نووي يهدد استقرار المنطقة حقًا؟ 🤔\nA) نعم، تهديد كبير! 💣\nB) لا، مبالغة إعلامية. 🤷‍♂️\nفقط 10% يعرفون الحقيقة! 👇",
+      "community_poll": {
+        "text": "Is Israel's alleged nuclear arsenal a threat or a deterrent to regional stability? 🤔 Let's discuss! 💥",
+        "poll_options": [
+          "Major Threat",
+          "Necessary Deterrent",
+          "Misinformation",
+          "Unknown"
+        ]
+      },
+      "debate_starter": "إسرائيل تمتلك أسلحة نووية، لكن هذا ليس تهديدًا بقدر ما هو رادع. ألا يعتقد البعض أن هذا يمنع الحرب؟ 🤔",
+      "prediction_game": "🔮 CRYSTAL BALL TIME: مرعب: إسرائيل تخفي 400 رأس نووي! الحقيقة\n\nComment your wildest theory about what happens next.\nWrong answers only 😂👇"
+    },
+    "score": 35
+  },
+  {
+    "scheduled_date": "2026-05-22",
+    "topic": "Iran's Hypersonic Missile Program: Should the World Worry?",
+    "title": "مرعب: صاروخ إيران الهوسي يهدد إسرائيل وأمريكا!",
+    "script_path": "batch_output/2026-05-22/script.json",
+    "video_path": "batch_output/2026-05-22/short.mp4",
+    "audio_path": "batch_output/2026-05-22/narration.mp3",
+    "thumbnail_path": "batch_output/2026-05-22/thumbnail.png",
+    "language": "ar",
+    "published": false,
+    "engagement_pack": {
+      "pinned_comment": "⚡ Hot take: What happens next?\n\n🔴 Full-scale war\n🟡 Cold war standoff\n🟢 Peace deal\n\nVote below! Most get this WRONG 👇",
+      "community_poll": {
+        "text": "Iran's new hypersonic missile is it a game-changer for the region or just a bluff? 🚀 Let's discuss!",
+        "poll_options": [
+          "Major threat",
+          "Just hype",
+          "Deters conflict",
+          "Arms race"
+        ]
+      },
+      "debate_starter": "",
+      "prediction_game": "🧠 INTEL TEST: Based on this briefing...\n\nWhat would YOU do as commander-in-chief?\nMost strategic answer wins! 🎖️👇"
+    },
+    "score": 45
+  },
+  {
+    "scheduled_date": "2026-05-23",
+    "topic": "[NEWS] Trump orders Smithsonian to post warnings about 'inaccurate' US histor: Here's What It Means for the World",
+    "title": "?",
+    "script_path": null,
+    "video_path": null,
+    "published": false,
+    "error": "Tüm script üretim denemeleri başarısız oldu."
+  },
+  {
+    "scheduled_date": "2026-05-24",
+    "topic": "What if North Korea Launches a Real Attack?",
+    "title": "?",
+    "script_path": null,
+    "video_path": null,
+    "published": false,
+    "error": "Tüm script üretim denemeleri başarısız oldu."
+  },
+  {
+    "scheduled_date": "2026-05-25",
+    "topic": "What if China Invades Taiwan Tomorrow?",
+    "title": "?",
+    "script_path": null,
+    "video_path": null,
+    "published": false,
+    "error": "Tüm script üretim denemeleri başarısız oldu."
+  },
+  {
+    "scheduled_date": "2026-05-26",
+    "topic": "What if Russia Uses a Tactical Nuclear Weapon?",
+    "title": "?",
+    "script_path": null,
+    "video_path": null,
+    "published": false,
+    "error": "Tüm script üretim denemeleri başarısız oldu."
+  },
+  {
+    "scheduled_date": "2026-05-27",
+    "topic": "What if a Military Coup Happens in a Nuclear State?",
+    "title": "?",
+    "script_path": null,
+    "video_path": null,
+    "published": false,
+    "error": "Tüm script üretim denemeleri başarısız oldu."
   }
 ]
