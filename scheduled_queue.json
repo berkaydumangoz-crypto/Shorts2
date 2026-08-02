@@ -1064,5 +1064,102 @@
     "video_path": null,
     "published": false,
     "error": "Tüm script üretim denemeleri başarısız oldu."
+  },
+  {
+    "scheduled_date": "2026-05-28",
+    "topic": "[NEWS] Trump says he is cancelling strikes on Iran subject to deal being made: Here's What It Means for the World",
+    "title": "72 ساعة حاسمة: ترامب وإيران والنووي",
+    "script_path": "batch_output/2026-05-28/script.json",
+    "video_path": "batch_output/2026-05-28/short.mp4",
+    "audio_path": "batch_output/2026-05-28/narration.mp3",
+    "thumbnail_path": "batch_output/2026-05-28/thumbnail.png",
+    "language": "ar",
+    "published": false,
+    "engagement_pack": {
+      "pinned_comment": "هل صفقة ترامب تمنح إيران الوقت النووي؟ ⏳ A) نعم، تهديد حقيقي! B) لا، مجرد خدعة! C) غير متأكد 🤔 فقط 5% يفهمون هذا! 👇",
+      "community_poll": {
+        "text": "Is Trump's tough stance on Iran the ONLY way to prevent a nuclear weapon? 🤔 Let's settle this! 🇮🇷🇺🇸",
+        "poll_options": [
+          "Yes, pressure works",
+          "No, diplomacy is key",
+          "Iran can't build it",
+          "Both tactics needed"
+        ]
+      },
+      "debate_starter": "Trump's \"deal\" is just a delay tactic. Iran wins either way. Thoughts? 🤔",
+      "prediction_game": "⚡ 30-SECOND CHALLENGE: After watching this video...\n\nWhat's the ONE thing that could change everything?\nBest answer gets pinned! 📌👇"
+    },
+    "score": 33
+  },
+  {
+    "scheduled_date": "2026-05-29",
+    "topic": "[NEWS] What Gaza students overcome Israel’s genocide to mark Tawjihi results Really Means for the Future",
+    "title": "100% نجاح؟ قصة صمود توجيهي غزة المذهلة",
+    "script_path": "batch_output/2026-05-29/script.json",
+    "video_path": "batch_output/2026-05-29/short.mp4",
+    "audio_path": "batch_output/2026-05-29/narration.mp3",
+    "thumbnail_path": "batch_output/2026-05-29/thumbnail.png",
+    "language": "ar",
+    "published": false,
+    "engagement_pack": {
+      "pinned_comment": "هل نجاح توجيهي غزة 2024 هو انتصار للأمل أم رسالة للعالم؟ 🤔\nA) الأمل يتجدد 💖\nB) رسالة صمود 💪\nC) كلاهما معًا ✨\nفقط 5% يفهمون المعنى الحقيقي! 👇",
+      "community_poll": {
+        "text": "🔥 After watching today's analysis on 100% نجاح؟ قصة صمود توجيهي غزة المذهلة... What's YOUR prediction?",
+        "poll_options": [
+          "Full escalation 💥",
+          "Diplomatic solution 🤝",
+          "Status quo continues",
+          "Something nobody expects 🔮"
+        ]
+      },
+      "debate_starter": "",
+      "prediction_game": "⚡ 30-SECOND CHALLENGE: After watching this video...\n\nWhat's the ONE thing that could change everything?\nBest answer gets pinned! 📌👇"
+    },
+    "score": 37
+  },
+  {
+    "scheduled_date": "2026-05-30",
+    "topic": "[NEWS] Why Israeli West Bank settler tells BBC attacks on Palestinians are justif Changes Everything",
+    "title": "?",
+    "script_path": null,
+    "video_path": null,
+    "published": false,
+    "error": "Tüm script üretim denemeleri başarısız oldu."
+  },
+  {
+    "scheduled_date": "2026-05-31",
+    "topic": "[NEWS] Iran Plotted Wider War With Help of Its Proxies: The Analysis Nobody Is Giving You",
+    "title": "?",
+    "script_path": null,
+    "video_path": null,
+    "published": false,
+    "error": "Tüm script üretim denemeleri başarısız oldu."
+  },
+  {
+    "scheduled_date": "2026-06-01",
+    "topic": "[NEWS] Trump ‘cancels attack on Iran’ saying deal is near: Here's What It Means for the World",
+    "title": "?",
+    "script_path": null,
+    "video_path": null,
+    "published": false,
+    "error": "Tüm script üretim denemeleri başarısız oldu."
+  },
+  {
+    "scheduled_date": "2026-06-02",
+    "topic": "Iran's Hypersonic Missile Program: Should the World Worry?",
+    "title": "?",
+    "script_path": null,
+    "video_path": null,
+    "published": false,
+    "error": "Tüm script üretim denemeleri başarısız oldu."
+  },
+  {
+    "scheduled_date": "2026-06-03",
+    "topic": "Israel's Secret Nuclear Arsenal: What We Know",
+    "title": "?",
+    "script_path": null,
+    "video_path": null,
+    "published": false,
+    "error": "Tüm script üretim denemeleri başarısız oldu."
   }
 ]
