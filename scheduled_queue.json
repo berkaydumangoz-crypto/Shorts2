@@ -1161,5 +1161,119 @@
     "video_path": null,
     "published": false,
     "error": "Tüm script üretim denemeleri başarısız oldu."
+  },
+  {
+    "scheduled_date": "2026-06-04",
+    "topic": "What if North Korea Launches a Real Attack?",
+    "title": "3 أسباب تجعل هجوم كوريا الشمالية الآن خطيرًا",
+    "script_path": "batch_output/2026-06-04/script.json",
+    "video_path": "batch_output/2026-06-04/short.mp4",
+    "audio_path": "batch_output/2026-06-04/narration.mp3",
+    "thumbnail_path": "batch_output/2026-06-04/thumbnail.png",
+    "language": "ar",
+    "published": false,
+    "engagement_pack": {
+      "pinned_comment": "هل ستكون حربًا شاملة؟ 🇰🇵\nA) نعم، حتمي\nB) لا، تكتيك مفاوضات\nC) ربما، يعتمد على ردود الفعل\n🤔 5% فقط يفهمون الاستراتيجية الحقيقية...",
+      "community_poll": {
+        "text": "Will Kim Jong Un's aggressive tactics actually unite Korea, or is it a dangerous gamble? 🤔🇰🇵",
+        "poll_options": [
+          "Unification is near",
+          "It's a bluff",
+          "WWIII starting",
+          "Just posturing"
+        ]
+      },
+      "debate_starter": "This isn't about power shifts, it's about desperation. Are we overlooking their internal struggles? 🤔",
+      "prediction_game": "🎯 PREDICTION GAME: What happens by end of 2026?\n\nDrop your prediction — I'll pin the best one! 📌\n\nMost creative prediction wins a shoutout! 🏆"
+    },
+    "score": 32
+  },
+  {
+    "scheduled_date": "2026-06-05",
+    "topic": "[NEWS] Why US offers $1bn to Colombia on new right Changes Everything",
+    "title": "1 مليار دولار لكولومبيا: صفقة سرية؟",
+    "script_path": "batch_output/2026-06-05/script.json",
+    "video_path": "batch_output/2026-06-05/short.mp4",
+    "audio_path": "batch_output/2026-06-05/narration.mp3",
+    "thumbnail_path": "batch_output/2026-06-05/thumbnail.png",
+    "language": "ar",
+    "published": false,
+    "engagement_pack": {
+      "pinned_comment": "🎯 Prediction challenge: Only 5% get this right!\n\nWhat's the REAL endgame here? Comment your theory 👇",
+      "community_poll": {
+        "text": "Is $1 Billion in US aid to Colombia truly for security, or is there a hidden agenda? 🤔 🇨🇴",
+        "poll_options": [
+          "Purely security",
+          "Economic boost",
+          "Regional influence",
+          "Hidden motives"
+        ]
+      },
+      "debate_starter": "",
+      "prediction_game": "⚡ 30-SECOND CHALLENGE: After watching this video...\n\nWhat's the ONE thing that could change everything?\nBest answer gets pinned! 📌👇"
+    },
+    "score": 35
+  },
+  {
+    "scheduled_date": "2026-06-06",
+    "topic": "What if NATO and Russia Go to Direct War?",
+    "title": "كارثي: الناتو وروسيا في حرب مباشرة؟ ماذا سيحدث؟",
+    "script_path": "batch_output/2026-06-06/script.json",
+    "video_path": "batch_output/2026-06-06/short.mp4",
+    "audio_path": "batch_output/2026-06-06/narration.mp3",
+    "thumbnail_path": "batch_output/2026-06-06/thumbnail.png",
+    "language": "ar",
+    "published": false,
+    "engagement_pack": {
+      "pinned_comment": "⚡ Hot take: What happens next?\n\n🔴 Full-scale war\n🟡 Cold war standoff\n🟢 Peace deal\n\nVote below! Most get this WRONG 👇",
+      "community_poll": {
+        "text": "🔥 After watching today's analysis on كارثي: الناتو وروسيا في حرب مباشرة؟ ماذا... What's YOUR prediction?",
+        "poll_options": [
+          "Full escalation 💥",
+          "Diplomatic solution 🤝",
+          "Status quo continues",
+          "Something nobody expects 🔮"
+        ]
+      },
+      "debate_starter": "",
+      "prediction_game": "🎯 PREDICTION GAME: What happens by end of 2026?\n\nDrop your prediction — I'll pin the best one! 📌\n\nMost creative prediction wins a shoutout! 🏆"
+    },
+    "score": 35
+  },
+  {
+    "scheduled_date": "2026-06-07",
+    "topic": "What if the Ukraine War Escalates to World War 3?",
+    "title": "?",
+    "script_path": null,
+    "video_path": null,
+    "published": false,
+    "error": "Tüm script üretim denemeleri başarısız oldu."
+  },
+  {
+    "scheduled_date": "2026-06-08",
+    "topic": "What if AI-Controlled Drones Replace Human Soldiers?",
+    "title": "?",
+    "script_path": null,
+    "video_path": null,
+    "published": false,
+    "error": "Tüm script üretim denemeleri başarısız oldu."
+  },
+  {
+    "scheduled_date": "2026-06-09",
+    "topic": "What if China Invades Taiwan Tomorrow?",
+    "title": "?",
+    "script_path": null,
+    "video_path": null,
+    "published": false,
+    "error": "Tüm script üretim denemeleri başarısız oldu."
+  },
+  {
+    "scheduled_date": "2026-06-10",
+    "topic": "What if Space Becomes the Next Battlefield?",
+    "title": "?",
+    "script_path": null,
+    "video_path": null,
+    "published": false,
+    "error": "Tüm script üretim denemeleri başarısız oldu."
   }
 ]
