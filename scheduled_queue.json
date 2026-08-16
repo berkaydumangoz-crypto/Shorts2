@@ -1275,5 +1275,136 @@
     "video_path": null,
     "published": false,
     "error": "Tüm script üretim denemeleri başarısız oldu."
+  },
+  {
+    "scheduled_date": "2026-06-11",
+    "topic": "[NEWS] Why Qatar denies capturing three Iranian pilots after downing fighter jets Changes Everything",
+    "title": "3 طيارين إيرانيين في قطر؟ القصة الكاملة",
+    "script_path": "batch_output/2026-06-11/script.json",
+    "video_path": "batch_output/2026-06-11/short.mp4",
+    "audio_path": "batch_output/2026-06-11/narration.mp3",
+    "thumbnail_path": "batch_output/2026-06-11/thumbnail.png",
+    "language": "ar",
+    "published": false,
+    "engagement_pack": {
+      "pinned_comment": "هل قطر تخفي صفقة أمريكية-إيرانية سرية؟ 🤫 \nA) نعم، لتحقيق الاستقرار! \nB) لا، مجرد شائعات! \nC) لا أعرف! \nفقط 5% يفهمون الحقيقة! 🤔",
+      "community_poll": {
+        "text": "Iranian pilots in Qatar? 🇮🇷🇶🇦 Some say it's a game-changer, others a distraction. What's your take?",
+        "poll_options": [
+          "Major Intel Win",
+          "US Propaganda",
+          "Pure Coincidence",
+          "Something Else"
+        ]
+      },
+      "debate_starter": "قطر تنفي؟ لكن ما هو الدافع وراء هذا الإنكار المفاجئ؟ 🤔",
+      "prediction_game": "⚡ 30-SECOND CHALLENGE: After watching this video...\n\nWhat's the ONE thing that could change everything?\nBest answer gets pinned! 📌👇"
+    },
+    "score": 34
+  },
+  {
+    "scheduled_date": "2026-06-12",
+    "topic": "What if China Invades Taiwan Tomorrow?",
+    "title": "صادم: الصين تبتلع تايوان خلال 72 ساعة؟",
+    "script_path": "batch_output/2026-06-12/script.json",
+    "video_path": "batch_output/2026-06-12/short.mp4",
+    "audio_path": "batch_output/2026-06-12/narration.mp3",
+    "thumbnail_path": "batch_output/2026-06-12/thumbnail.png",
+    "language": "ar",
+    "published": false,
+    "engagement_pack": {
+      "pinned_comment": "هل تنجح الصين في غزو تايوان خلال 72 ساعة؟ 🇨🇳🇹🇼\nA) نعم، الحشد مرعب!\nB) لا، أمريكا ستتدخل.\nC) 🤷‍♂️ غير متأكد.\nفقط 5% يتوقعون النتيجة الصحيحة! 👇",
+      "community_poll": {
+        "text": "Is a 72-hour Chinese takeover of Taiwan even possible? 🤯 What's the biggest hurdle? 💥",
+        "poll_options": [
+          "US Intervention",
+          "Taiwanese Defense",
+          "Logistics Nightmare",
+          "Global Sanctions"
+        ]
+      },
+      "debate_starter": "أمريكا لن تتدخل، فما هو الحل الواقعي لتايوان؟ 🤔",
+      "prediction_game": "🔮 CRYSTAL BALL TIME: صادم: الصين تبتلع تايوان خلال 72 ساعة؟\n\nComment your wildest theory about what happens next.\nWrong answers only 😂👇"
+    },
+    "score": 33
+  },
+  {
+    "scheduled_date": "2026-06-13",
+    "topic": "What if Russia Uses a Tactical Nuclear Weapon?",
+    "title": "كارثي: روسيا تستخدم نووي تكتيكي؟ الحقيقة المخفية!",
+    "script_path": "batch_output/2026-06-13/script.json",
+    "video_path": "batch_output/2026-06-13/short.mp4",
+    "audio_path": "batch_output/2026-06-13/narration.mp3",
+    "thumbnail_path": "batch_output/2026-06-13/thumbnail.png",
+    "language": "ar",
+    "published": false,
+    "engagement_pack": {
+      "pinned_comment": "🔥 Bold prediction time: How does this end?\n\nA) Escalation 💥\nB) Diplomacy 🤝\nC) Surprise twist 🔄\n\nDrop your answer! 👇",
+      "community_poll": {
+        "text": "🔥 After watching today's analysis on كارثي: روسيا تستخدم نووي تكتيكي؟ الحقيقة... What's YOUR prediction?",
+        "poll_options": [
+          "Full escalation 💥",
+          "Diplomatic solution 🤝",
+          "Status quo continues",
+          "Something nobody expects 🔮"
+        ]
+      },
+      "debate_starter": "",
+      "prediction_game": "🎯 PREDICTION GAME: What happens by end of 2026?\n\nDrop your prediction — I'll pin the best one! 📌\n\nMost creative prediction wins a shoutout! 🏆"
+    },
+    "score": 38
+  },
+  {
+    "scheduled_date": "2026-06-14",
+    "topic": "What if the Ukraine War Escalates to World War 3?",
+    "title": "كارثي: حرب أوكرانيا تشتعل عالمياً؟",
+    "script_path": "batch_output/2026-06-14/script.json",
+    "video_path": "batch_output/2026-06-14/short.mp4",
+    "audio_path": "batch_output/2026-06-14/narration.mp3",
+    "thumbnail_path": "batch_output/2026-06-14/thumbnail.png",
+    "language": "ar",
+    "published": false,
+    "engagement_pack": {
+      "pinned_comment": "⚡ Hot take: What happens next?\n\n🔴 Full-scale war\n🟡 Cold war standoff\n🟢 Peace deal\n\nVote below! Most get this WRONG 👇",
+      "community_poll": {
+        "text": "🔥 After watching today's analysis on كارثي: حرب أوكرانيا تشتعل عالمياً؟... What's YOUR prediction?",
+        "poll_options": [
+          "Full escalation 💥",
+          "Diplomatic solution 🤝",
+          "Status quo continues",
+          "Something nobody expects 🔮"
+        ]
+      },
+      "debate_starter": "",
+      "prediction_game": "⚡ 30-SECOND CHALLENGE: After watching this video...\n\nWhat's the ONE thing that could change everything?\nBest answer gets pinned! 📌👇"
+    },
+    "score": 28
+  },
+  {
+    "scheduled_date": "2026-06-15",
+    "topic": "What if North Korea Launches a Real Attack?",
+    "title": "?",
+    "script_path": null,
+    "video_path": null,
+    "published": false,
+    "error": "Tüm script üretim denemeleri başarısız oldu."
+  },
+  {
+    "scheduled_date": "2026-06-16",
+    "topic": "What if the Arctic Becomes a War Zone?",
+    "title": "?",
+    "script_path": null,
+    "video_path": null,
+    "published": false,
+    "error": "Tüm script üretim denemeleri başarısız oldu."
+  },
+  {
+    "scheduled_date": "2026-06-17",
+    "topic": "[NEWS] Eleven killed in Israeli strikes on southern Lebanon, authorities say: Here's What It Means for the World",
+    "title": "?",
+    "script_path": null,
+    "video_path": null,
+    "published": false,
+    "error": "Tüm script üretim denemeleri başarısız oldu."
   }
 ]
