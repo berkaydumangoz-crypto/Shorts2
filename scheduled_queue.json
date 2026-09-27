@@ -1772,5 +1772,102 @@
     "video_path": null,
     "published": false,
     "error": "Tüm script üretim denemeleri başarısız oldu."
+  },
+  {
+    "scheduled_date": "2026-07-23",
+    "topic": "[NEWS] Iranian minister says only negotiation can end conflict after Trump re: Here's What It Means for the World",
+    "title": "مرعب: إيران تخشى ترامب؟ تفاوض أم استسلام؟",
+    "script_path": "batch_output/2026-07-23/script.json",
+    "video_path": "batch_output/2026-07-23/short.mp4",
+    "audio_path": "batch_output/2026-07-23/narration.mp3",
+    "thumbnail_path": "batch_output/2026-07-23/thumbnail.png",
+    "language": "ar",
+    "published": false,
+    "engagement_pack": {
+      "pinned_comment": "🎯 Prediction challenge: Only 5% get this right!\n\nWhat's the REAL endgame here? Comment your theory 👇",
+      "community_poll": {
+        "text": "🔥 After watching today's analysis on مرعب: إيران تخشى ترامب؟ تفاوض أم استسلام... What's YOUR prediction?",
+        "poll_options": [
+          "Full escalation 💥",
+          "Diplomatic solution 🤝",
+          "Status quo continues",
+          "Something nobody expects 🔮"
+        ]
+      },
+      "debate_starter": "",
+      "prediction_game": "🎯 PREDICTION GAME: What happens by end of 2026?\n\nDrop your prediction — I'll pin the best one! 📌\n\nMost creative prediction wins a shoutout! 🏆"
+    },
+    "score": 36
+  },
+  {
+    "scheduled_date": "2026-07-24",
+    "topic": "What if the Global Economy Collapses During a War?",
+    "title": "كارثي: الحرب العالمية تنهار الاقتصاد العالمي!",
+    "script_path": "batch_output/2026-07-24/script.json",
+    "video_path": "batch_output/2026-07-24/short.mp4",
+    "audio_path": "batch_output/2026-07-24/narration.mp3",
+    "thumbnail_path": "batch_output/2026-07-24/thumbnail.png",
+    "language": "ar",
+    "published": false,
+    "engagement_pack": {
+      "pinned_comment": "🎯 Prediction challenge: Only 5% get this right!\n\nWhat's the REAL endgame here? Comment your theory 👇",
+      "community_poll": {
+        "text": "🔥 After watching today's analysis on كارثي: الحرب العالمية تنهار الاقتصاد الع... What's YOUR prediction?",
+        "poll_options": [
+          "Full escalation 💥",
+          "Diplomatic solution 🤝",
+          "Status quo continues",
+          "Something nobody expects 🔮"
+        ]
+      },
+      "debate_starter": "",
+      "prediction_game": "🎯 PREDICTION GAME: What happens by end of 2026?\n\nDrop your prediction — I'll pin the best one! 📌\n\nMost creative prediction wins a shoutout! 🏆"
+    },
+    "score": 33
+  },
+  {
+    "scheduled_date": "2026-07-25",
+    "topic": "What if Hypersonic Missiles Make Navies Obsolete?",
+    "title": "?",
+    "script_path": null,
+    "video_path": null,
+    "published": false,
+    "error": "Tüm script üretim denemeleri başarısız oldu."
+  },
+  {
+    "scheduled_date": "2026-07-26",
+    "topic": "What if AI-Controlled Drones Replace Human Soldiers?",
+    "title": "?",
+    "script_path": null,
+    "video_path": null,
+    "published": false,
+    "error": "Tüm script üretim denemeleri başarısız oldu."
+  },
+  {
+    "scheduled_date": "2026-07-27",
+    "topic": "[NEWS] Why Two mass shootings in South Africa leave 27 dead Changes Everything",
+    "title": "?",
+    "script_path": null,
+    "video_path": null,
+    "published": false,
+    "error": "Tüm script üretim denemeleri başarısız oldu."
+  },
+  {
+    "scheduled_date": "2026-07-28",
+    "topic": "What if a Military Coup Happens in a Nuclear State?",
+    "title": "?",
+    "script_path": null,
+    "video_path": null,
+    "published": false,
+    "error": "Tüm script üretim denemeleri başarısız oldu."
+  },
+  {
+    "scheduled_date": "2026-07-29",
+    "topic": "[NEWS] What Russia targeting 'ordinary life' with attacks on Ukraine's data centre Really Means for the Future",
+    "title": "?",
+    "script_path": null,
+    "video_path": null,
+    "published": false,
+    "error": "Tüm script üretim denemeleri başarısız oldu."
   }
 ]
