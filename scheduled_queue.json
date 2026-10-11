@@ -1932,5 +1932,119 @@
     "video_path": null,
     "published": false,
     "error": "Tüm script üretim denemeleri başarısız oldu."
+  },
+  {
+    "scheduled_date": "2026-08-06",
+    "topic": "[NEWS] Flydubai attacker began a 'drift towards extremism and terrorism' in A: Here's What It Means for the World",
+    "title": "الهجوم: 3 حقائق صادمة عن منفذ فلاي دبي",
+    "script_path": "batch_output/2026-08-06/script.json",
+    "video_path": "batch_output/2026-08-06/short.mp4",
+    "audio_path": "batch_output/2026-08-06/narration.mp3",
+    "thumbnail_path": "batch_output/2026-08-06/thumbnail.png",
+    "language": "ar",
+    "published": false,
+    "engagement_pack": {
+      "pinned_comment": "🔥 Bold prediction time: How does this end?\n\nA) Escalation 💥\nB) Diplomacy 🤝\nC) Surprise twist 🔄\n\nDrop your answer! 👇",
+      "community_poll": {
+        "text": "🔥 After watching today's analysis on الهجوم: 3 حقائق صادمة عن منفذ فلاي دبي... What's YOUR prediction?",
+        "poll_options": [
+          "Full escalation 💥",
+          "Diplomatic solution 🤝",
+          "Status quo continues",
+          "Something nobody expects 🔮"
+        ]
+      },
+      "debate_starter": "",
+      "prediction_game": "🔮 CRYSTAL BALL TIME: الهجوم: 3 حقائق صادمة عن منفذ فلاي دبي\n\nComment your wildest theory about what happens next.\nWrong answers only 😂👇"
+    },
+    "score": 29
+  },
+  {
+    "scheduled_date": "2026-08-07",
+    "topic": "[NEWS] Ukraine strikes Russian data centre again despite Trump warning: Here's What It Means for the World",
+    "title": "خطير: أوكرانيا تضرب عمق روسيا وهذا يعني الحرب!",
+    "script_path": "batch_output/2026-08-07/script.json",
+    "video_path": "batch_output/2026-08-07/short.mp4",
+    "audio_path": "batch_output/2026-08-07/narration.mp3",
+    "thumbnail_path": "batch_output/2026-08-07/thumbnail.png",
+    "language": "ar",
+    "published": false,
+    "engagement_pack": {
+      "pinned_comment": "🔥 Bold prediction time: How does this end?\n\nA) Escalation 💥\nB) Diplomacy 🤝\nC) Surprise twist 🔄\n\nDrop your answer! 👇",
+      "community_poll": {
+        "text": "🔥 After watching today's analysis on خطير: أوكرانيا تضرب عمق روسيا وهذا يعني ... What's YOUR prediction?",
+        "poll_options": [
+          "Full escalation 💥",
+          "Diplomatic solution 🤝",
+          "Status quo continues",
+          "Something nobody expects 🔮"
+        ]
+      },
+      "debate_starter": "",
+      "prediction_game": "🔮 CRYSTAL BALL TIME: خطير: أوكرانيا تضرب عمق روسيا وهذا يعني \n\nComment your wildest theory about what happens next.\nWrong answers only 😂👇"
+    },
+    "score": 33
+  },
+  {
+    "scheduled_date": "2026-08-08",
+    "topic": "[NEWS] Why Ukraine war latest Changes Everything",
+    "title": "?",
+    "script_path": null,
+    "video_path": null,
+    "published": false,
+    "error": "Tüm script üretim denemeleri başarısız oldu."
+  },
+  {
+    "scheduled_date": "2026-08-09",
+    "topic": "[NEWS] 'Time for Ukraine to get new president,' says Trump after Zelensky con: Here's What It Means for the World",
+    "title": "ترامب يشعل أوكرانيا: نهاية زيلينسكي؟",
+    "script_path": "batch_output/2026-08-09/script.json",
+    "video_path": "batch_output/2026-08-09/short.mp4",
+    "audio_path": "batch_output/2026-08-09/narration.mp3",
+    "thumbnail_path": "batch_output/2026-08-09/thumbnail.png",
+    "language": "ar",
+    "published": false,
+    "engagement_pack": {
+      "pinned_comment": "🎯 Prediction challenge: Only 5% get this right!\n\nWhat's the REAL endgame here? Comment your theory 👇",
+      "community_poll": {
+        "text": "🔥 After watching today's analysis on ترامب يشعل أوكرانيا: نهاية زيلينسكي؟... What's YOUR prediction?",
+        "poll_options": [
+          "Full escalation 💥",
+          "Diplomatic solution 🤝",
+          "Status quo continues",
+          "Something nobody expects 🔮"
+        ]
+      },
+      "debate_starter": "",
+      "prediction_game": "🎯 PREDICTION GAME: What happens by end of 2026?\n\nDrop your prediction — I'll pin the best one! 📌\n\nMost creative prediction wins a shoutout! 🏆"
+    },
+    "score": 33
+  },
+  {
+    "scheduled_date": "2026-08-10",
+    "topic": "[NEWS] What Drone strike by Sudan paramilitary kills 41 near Ethiopian border, rig Really Means for the Future",
+    "title": "?",
+    "script_path": null,
+    "video_path": null,
+    "published": false,
+    "error": "Tüm script üretim denemeleri başarısız oldu."
+  },
+  {
+    "scheduled_date": "2026-08-11",
+    "topic": "[NEWS] Woman injures three people in third Poland school knife attack in a we: The Analysis Nobody Is Giving You",
+    "title": "?",
+    "script_path": null,
+    "video_path": null,
+    "published": false,
+    "error": "Tüm script üretim denemeleri başarısız oldu."
+  },
+  {
+    "scheduled_date": "2026-08-12",
+    "topic": "[NEWS] Why Russian glide bomb attack on Zaporizhzhia kills at least 20 people Changes Everything",
+    "title": "?",
+    "script_path": null,
+    "video_path": null,
+    "published": false,
+    "error": "Tüm script üretim denemeleri başarısız oldu."
   }
 ]
