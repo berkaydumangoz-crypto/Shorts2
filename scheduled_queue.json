@@ -2143,5 +2143,102 @@
     "video_path": null,
     "published": false,
     "error": "Tüm script üretim denemeleri başarısız oldu."
+  },
+  {
+    "scheduled_date": "2026-08-20",
+    "topic": "[NEWS] Why Gunmen kill at least 10 villagers and loot shops in north Changes Everything",
+    "title": "10 قتلى في مجزرة الشمال - الحقيقة مخفية!",
+    "script_path": "batch_output/2026-08-20/script.json",
+    "video_path": "batch_output/2026-08-20/short.mp4",
+    "audio_path": "batch_output/2026-08-20/narration.mp3",
+    "thumbnail_path": "batch_output/2026-08-20/thumbnail.png",
+    "language": "ar",
+    "published": false,
+    "engagement_pack": {
+      "pinned_comment": "🔥 Bold prediction time: How does this end?\n\nA) Escalation 💥\nB) Diplomacy 🤝\nC) Surprise twist 🔄\n\nDrop your answer! 👇",
+      "community_poll": {
+        "text": "🔥 After watching today's analysis on 10 قتلى في مجزرة الشمال - الحقيقة مخفية!... What's YOUR prediction?",
+        "poll_options": [
+          "Full escalation 💥",
+          "Diplomatic solution 🤝",
+          "Status quo continues",
+          "Something nobody expects 🔮"
+        ]
+      },
+      "debate_starter": "",
+      "prediction_game": "🧠 INTEL TEST: Based on this briefing...\n\nWhat would YOU do as commander-in-chief?\nMost strategic answer wins! 🎖️👇"
+    },
+    "score": 29
+  },
+  {
+    "scheduled_date": "2026-08-21",
+    "topic": "[NEWS] Ukraine war live: Here's What It Means for the World",
+    "title": "الناتو ينهار؟ 5 أسباب سرية خلف الأزمة",
+    "script_path": "batch_output/2026-08-21/script.json",
+    "video_path": "batch_output/2026-08-21/short.mp4",
+    "audio_path": "batch_output/2026-08-21/narration.mp3",
+    "thumbnail_path": "batch_output/2026-08-21/thumbnail.png",
+    "language": "ar",
+    "published": false,
+    "engagement_pack": {
+      "pinned_comment": "🎯 Prediction challenge: Only 5% get this right!\n\nWhat's the REAL endgame here? Comment your theory 👇",
+      "community_poll": {
+        "text": "🔥 After watching today's analysis on الناتو ينهار؟ 5 أسباب سرية خلف الأزمة... What's YOUR prediction?",
+        "poll_options": [
+          "Full escalation 💥",
+          "Diplomatic solution 🤝",
+          "Status quo continues",
+          "Something nobody expects 🔮"
+        ]
+      },
+      "debate_starter": "",
+      "prediction_game": "⚡ 30-SECOND CHALLENGE: After watching this video...\n\nWhat's the ONE thing that could change everything?\nBest answer gets pinned! 📌👇"
+    },
+    "score": 41
+  },
+  {
+    "scheduled_date": "2026-08-22",
+    "topic": "[NEWS] Iranian army says it shot down US drone over Bandar Abbas, Tasnim repo: Here's What It Means for the World",
+    "title": "?",
+    "script_path": null,
+    "video_path": null,
+    "published": false,
+    "error": "Tüm script üretim denemeleri başarısız oldu."
+  },
+  {
+    "scheduled_date": "2026-08-23",
+    "topic": "[NEWS] Iran's army claims it shot down US drone over southern Iran: The Analysis Nobody Is Giving You",
+    "title": "?",
+    "script_path": null,
+    "video_path": null,
+    "published": false,
+    "error": "Tüm script üretim denemeleri başarısız oldu."
+  },
+  {
+    "scheduled_date": "2026-08-24",
+    "topic": "[NEWS] Why Ukraine war latest Changes Everything",
+    "title": "?",
+    "script_path": null,
+    "video_path": null,
+    "published": false,
+    "error": "Tüm script üretim denemeleri başarısız oldu."
+  },
+  {
+    "scheduled_date": "2026-08-25",
+    "topic": "[NEWS] Iraq faces renewed Iran war spillover despite pledge to stay out: Here's What It Means for the World",
+    "title": "?",
+    "script_path": null,
+    "video_path": null,
+    "published": false,
+    "error": "Tüm script üretim denemeleri başarısız oldu."
+  },
+  {
+    "scheduled_date": "2026-08-26",
+    "topic": "[NEWS] What Iraq believes Israel may have struck militia weapons supplied by Iran Really Means for the Future",
+    "title": "?",
+    "script_path": null,
+    "video_path": null,
+    "published": false,
+    "error": "Tüm script üretim denemeleri başarısız oldu."
   }
 ]
