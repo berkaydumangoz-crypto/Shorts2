@@ -2240,5 +2240,119 @@
     "video_path": null,
     "published": false,
     "error": "Tüm script üretim denemeleri başarısız oldu."
+  },
+  {
+    "scheduled_date": "2026-08-27",
+    "topic": "[NEWS] Why Ukrainian evacuees reunite with family after years trapped in Russia Changes Everything",
+    "title": "لم شمل الأوكرانيين: 1000 عائلة تكشف خيانة الغرب!",
+    "script_path": "batch_output/2026-08-27/script.json",
+    "video_path": "batch_output/2026-08-27/short.mp4",
+    "audio_path": "batch_output/2026-08-27/narration.mp3",
+    "thumbnail_path": "batch_output/2026-08-27/thumbnail.png",
+    "language": "ar",
+    "published": false,
+    "engagement_pack": {
+      "pinned_comment": "هل الغرب خذل أوكرانيا باستخدامه الأطفال كأوراق ضغط؟ 🤔\nA) نعم، صفقة قذرة! 👎\nB) لا، مصالح أكبر. 🤷‍♂️\nC) لا أعرف. ❓\nفقط 10% سيفهمون!",
+      "community_poll": {
+        "text": "Is the West truly betraying Ukraine, or is this just a narrative? 🤔 Let's settle this! 🌍",
+        "poll_options": [
+          "Total Western betrayal",
+          "Some support wavering",
+          "West is doing enough",
+          "Ukraine needs more"
+        ]
+      },
+      "debate_starter": "This reunion is bittersweet. Is the West using these families for political leverage, or truly helping them? 🤔",
+      "prediction_game": "⚡ 30-SECOND CHALLENGE: After watching this video...\n\nWhat's the ONE thing that could change everything?\nBest answer gets pinned! 📌👇"
+    },
+    "score": 36
+  },
+  {
+    "scheduled_date": "2026-08-28",
+    "topic": "[NEWS] Iran and US explore diplomacy amid rising threats of war: Here's What It Means for the World",
+    "title": "كارثي: أمريكا وإيران.. هل تخطت الدبلوماسية حدود الحرب؟",
+    "script_path": "batch_output/2026-08-28/script.json",
+    "video_path": "batch_output/2026-08-28/short.mp4",
+    "audio_path": "batch_output/2026-08-28/narration.mp3",
+    "thumbnail_path": "batch_output/2026-08-28/thumbnail.png",
+    "language": "ar",
+    "published": false,
+    "engagement_pack": {
+      "pinned_comment": "⚡ Hot take: What happens next?\n\n🔴 Full-scale war\n🟡 Cold war standoff\n🟢 Peace deal\n\nVote below! Most get this WRONG 👇",
+      "community_poll": {
+        "text": "Are the US and Iran's current tensions pushing us closer to war, or is it all a dangerous game of brinkmanship? 💣",
+        "poll_options": [
+          "Inevitable War",
+          "Brinkmanship",
+          "Deterrence Works",
+          "De-escalation Soon"
+        ]
+      },
+      "debate_starter": "",
+      "prediction_game": "🎯 PREDICTION GAME: What happens by end of 2026?\n\nDrop your prediction — I'll pin the best one! 📌\n\nMost creative prediction wins a shoutout! 🏆"
+    },
+    "score": 37
+  },
+  {
+    "scheduled_date": "2026-08-29",
+    "topic": "[NEWS] What G20 'family photo' cancelled after protests over presence of Russian m Really Means for the Future",
+    "title": "صادم: روسيا تُقصى من G20.. هل بدأت النهاية؟",
+    "script_path": "batch_output/2026-08-29/script.json",
+    "video_path": "batch_output/2026-08-29/short.mp4",
+    "audio_path": "batch_output/2026-08-29/narration.mp3",
+    "thumbnail_path": "batch_output/2026-08-29/thumbnail.png",
+    "language": "ar",
+    "published": false,
+    "engagement_pack": {
+      "pinned_comment": "⚡ Hot take: What happens next?\n\n🔴 Full-scale war\n🟡 Cold war standoff\n🟢 Peace deal\n\nVote below! Most get this WRONG 👇",
+      "community_poll": {
+        "text": "🔥 After watching today's analysis on صادم: روسيا تُقصى من G20.. هل بدأت النها... What's YOUR prediction?",
+        "poll_options": [
+          "Full escalation 💥",
+          "Diplomatic solution 🤝",
+          "Status quo continues",
+          "Something nobody expects 🔮"
+        ]
+      },
+      "debate_starter": "",
+      "prediction_game": "⚡ 30-SECOND CHALLENGE: After watching this video...\n\nWhat's the ONE thing that could change everything?\nBest answer gets pinned! 📌👇"
+    },
+    "score": 32
+  },
+  {
+    "scheduled_date": "2026-08-30",
+    "topic": "[NEWS] At least eight Palestinians killed in Israeli attacks across Gaza: Here's What It Means for the World",
+    "title": "?",
+    "script_path": null,
+    "video_path": null,
+    "published": false,
+    "error": "Tüm script üretim denemeleri başarısız oldu."
+  },
+  {
+    "scheduled_date": "2026-08-31",
+    "topic": "[NEWS] Why Iran targeted US air defenses then hit aircraft and buildings on Midea Changes Everything",
+    "title": "?",
+    "script_path": null,
+    "video_path": null,
+    "published": false,
+    "error": "Tüm script üretim denemeleri başarısız oldu."
+  },
+  {
+    "scheduled_date": "2026-09-01",
+    "topic": "[NEWS] 274 US Military Structures Damaged at 24 Sites amid Iran’s Retaliation: Here's What It Means for the World",
+    "title": "?",
+    "script_path": null,
+    "video_path": null,
+    "published": false,
+    "error": "Tüm script üretim denemeleri başarısız oldu."
+  },
+  {
+    "scheduled_date": "2026-09-02",
+    "topic": "[NEWS] A new strike on Iran? Trump and Netanyahu may not be on the same page: The Analysis Nobody Is Giving You",
+    "title": "?",
+    "script_path": null,
+    "video_path": null,
+    "published": false,
+    "error": "Tüm script üretim denemeleri başarısız oldu."
   }
 ]
